@@ -7,7 +7,7 @@
 ## Electronics
 
    - Main Computer: Nvidia Jetson Xavier
-   - Flight Computer: PixHawk 4 (Previously Navio2)
+   - Flight Computer: Pixhawk 4 (Previously Navio2)
    - Optical Flow Sensor: PX4Flow
    - Lidar Sensor: LIDAR-Lite v3
    - Camera: Logitech C920
@@ -22,44 +22,44 @@
 
 All frame components aside from the legs were custom designed and 3D printed.
 
-![](/img/Full_1.png)
-![](/img/Full_2.png)
+![](/img/Full_1.PNG)
+![](/img/Full_2.PNG)
 
-![](/img/BatteryClasp_1.png)
-![](/img/BatteryClasp_2.png)
+![](/img/BatteryClasp_1.PNG)
+![](/img/BatteryClasp_2.PNG)
 
-[Battery Clasp](/battery-mount)
+[Battery Clasp](https://github.com/sustral/aircraft-hardware/tree/master/3d-models/battery-mount)
 
-![](/img/BatteryRails_1.png)
-![](/img/BatteryRails_2.png)
+![](/img/BatteryRails_1.PNG)
+![](/img/BatteryRails_2.PNG)
 
-[Battery Rails](/battery-mount)
+[Battery Rails](https://github.com/sustral/aircraft-hardware/tree/master/3d-models/battery-mount)
 
-![](/img/BatteryCase_1.png)
-![](/img/BatteryCase_2.png)
+![](/img/BatteryCase_1.PNG)
+![](/img/BatteryCase_2.PNG)
 
-[Battery Case](/battery-case)
+[Battery Case](https://github.com/sustral/aircraft-hardware/tree/master/3d-models/battery-case)
 
-![](/img/PowerDistributionUnit_1.png)
+![](/img/PowerDistributionUnit_1.PNG)
 
-[Power Distribution Unit](/power-distribution-unit)
+[Power Distribution Unit](https://github.com/sustral/aircraft-hardware/tree/master/3d-models/power-distribution-unit)
 
-![](/img/BottomPlate_1.png)
-![](/img/BottomPlate_2.png)
+![](/img/BottomPlate_1.PNG)
+![](/img/BottomPlate_2.PNG)
 
-[Bottom Plate](/bottom-plate)
+[Bottom Plate](https://github.com/sustral/aircraft-hardware/tree/master/3d-models/bottom-plate)
 
-![](/img/GPS&RXMount_1.png)
+![](/img/GPS&RXMount_1.PNG)
 
-[GPS and Receiver Mount](/gps-and-receiver-mount)
+[GPS and Receiver Mount](https://github.com/sustral/aircraft-hardware/tree/master/3d-models/gps-and-receiver-mount)
 
-![](/img/Camera&OpticalFlow&LidarMount_1.png)
+![](/img/Camera&OpticalFlow&LidarMount_1.PNG)
 
-[Sensor Mounts](/sensor-mounts)
+[Sensor Mounts](https://github.com/sustral/aircraft-hardware/tree/master/3d-models/sensor-mounts)
 
-![](/img/TopPlate_1.png)
+![](/img/TopPlate_1.PNG)
 
-[Top Plate](/top-plate)
+[Top Plate](https://github.com/sustral/aircraft-hardware/tree/master/3d-models/top-plate)
 
    - The legs are from a DJI F450 clone kit
 
